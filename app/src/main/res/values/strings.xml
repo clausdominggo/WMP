@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WMP</string>
+    <string-array name="majors">
+        <item>IT</item>
+        <item>Accounting</item>
+        <item>Engineering</item>
+    </string-array>
+</resources>
